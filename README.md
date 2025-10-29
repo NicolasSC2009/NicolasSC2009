@@ -23,7 +23,6 @@
   <img align="center" alt="Nicolas-Apache" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg"/>
   <img align="center" alt="Nicolas-NetBeans" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg"/>
   <img align="center" alt="Nicolas-Canva" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
-  <img align="center" alt="Nicolas-Chrome" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg"/>
 
 </div>
 
