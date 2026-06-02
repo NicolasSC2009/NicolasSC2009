@@ -4,7 +4,8 @@
       <img src="https://img.shields.io/badge/Meu_Cartão_Digital-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white">
     </a>
   </p>
-###
+<br>
+<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/NicolasSC2009/NicolasSC2009/stats-output/stats.svg" height="150" alt="stats graph"  />
@@ -16,6 +17,8 @@
 <img align="right" height="150" src="https://media.tenor.com/gKpkun1a8FMAAAAi/madara-gitar.gif"  />
 
 ###
+<br>
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="59" alt="javascript logo"  />
@@ -69,7 +72,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/nicolas_bongiolo_?igsh=Z3lwZzZrdXhhcTl0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
   </a>
