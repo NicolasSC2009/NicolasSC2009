@@ -1,4 +1,10 @@
-<h2 align="left">Hello!! I am Nicolas Bongiolo ☕</h2>
+<h2 align="left">Olá! Sou o Nicolas Bongiolo ☕</h2>
+
+Estudante do Técnico em Informática no CEDUP Abílio Paulo (Criciúma/SC), focado em **desenvolvimento Full Stack**. Em busca de estágio a partir de dezembro de 2026.
+
+### 🚀 Projetos em destaque
+- **[DangerMap](https://github.com/NicolasSC2009/DangerMap)**: TCC. Mapa colaborativo de riscos urbanos (web e Android). Sou responsável pela API em Node.js/TypeScript, pelo banco PostgreSQL + PostGIS e pela integração com o Google Gemini, que sugere a categoria a partir da foto.
+- **[FlyFoodz](https://github.com/NicolasSC2009/FlyFoodz)**: sistema de pedidos para restaurantes em PHP e MySQL, com 4 perfis de usuário.
   <p>
     <a href="https://nicolassc2009.github.io/meu-cartao-digital/">
       <img src="https://img.shields.io/badge/Meu_Cartão_Digital-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white">
@@ -79,7 +85,7 @@
   <a href="https://www.twitch.tv/irineudovatu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="Twitch" />
   </a>
-  <a href="mailto:nicolaspachecobongiolo@gmail.com">
+  <a href="mailto:nicolas.bongiolo@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/nicolas-pacheco-bongiolo-09b78b3b4/" target="_blank">
