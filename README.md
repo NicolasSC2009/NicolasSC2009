@@ -2,7 +2,7 @@
 
 Estudante do Técnico em Informática no CEDUP Abílio Paulo (Criciúma/SC), focado em **desenvolvimento Full Stack**. Em busca de estágio a partir de dezembro de 2026.
 
-### 🚀 Projetos em destaque
+### Projetos em destaque
 - **[DangerMap](https://github.com/NicolasSC2009/DangerMap)**: TCC. Mapa colaborativo de riscos urbanos (web e Android). Sou responsável pela API em Node.js/TypeScript, pelo banco PostgreSQL + PostGIS e pela integração com o Google Gemini, que sugere a categoria a partir da foto.
 - **[FlyFoodz](https://github.com/NicolasSC2009/FlyFoodz)**: sistema de pedidos para restaurantes em PHP e MySQL, com 4 perfis de usuário.
   <p>
