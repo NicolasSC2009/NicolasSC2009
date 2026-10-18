@@ -14,7 +14,6 @@ Estudante do Técnico em Informática no CEDUP Abílio Paulo (Criciúma/SC), foc
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NicolasSC2009/NicolasSC2009/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/NicolasSC2009/NicolasSC2009/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
